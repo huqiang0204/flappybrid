@@ -1,0 +1,14 @@
+E:\learn\brid\brid\bin\Debug\brid.exe.config
+E:\learn\brid\brid\bin\Debug\brid.exe
+E:\learn\brid\brid\bin\Debug\brid.pdb
+E:\learn\brid\brid\obj\Debug\brid.csprojResolveAssemblyReference.cache
+E:\learn\brid\brid\obj\Debug\MainWindow.g.cs
+E:\learn\brid\brid\obj\Debug\App.g.cs
+E:\learn\brid\brid\obj\Debug\brid_MarkupCompile.cache
+E:\learn\brid\brid\obj\Debug\brid_MarkupCompile.lref
+E:\learn\brid\brid\obj\Debug\MainWindow.baml
+E:\learn\brid\brid\obj\Debug\brid.g.resources
+E:\learn\brid\brid\obj\Debug\brid.Properties.Resources.resources
+E:\learn\brid\brid\obj\Debug\brid.csproj.GenerateResource.Cache
+E:\learn\brid\brid\obj\Debug\brid.exe
+E:\learn\brid\brid\obj\Debug\brid.pdb
